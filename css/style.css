@@ -331,7 +331,7 @@ body {
 	margin: 0 auto;
 	text-transform: uppercase;
 	border: 2px solid #000;
-	background: url("/img/zelenaya-trava.jpg");
+	background: url("./img/zelenaya-trava.jpg");
 }
 .game-block__game p:first-child {
 	display: inline-block;
